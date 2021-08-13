@@ -1,6 +1,6 @@
 {
   "name": "turkce-sozluk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bu NPM modülü ile birlikte, Arattığınız kelimenin TDK sözlüğündeki anlamına, örnek cümlelerine, kelimenin içinde bulunduğu atasözlerine, kelimenin kökenine ve daha fazlasına ulaşabilirsiniz.",
   "main": "index.js",
   "scripts": {
