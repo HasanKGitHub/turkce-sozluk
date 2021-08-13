@@ -16,7 +16,7 @@ const sozluk = require("turkce-sozluk");
 
 # "then" yapısı ile örnek kullanım
 ```js
-const sozluk = require("../index.js");
+const sozluk = require("turkce-sozluk");
 
 sozluk("araba").then(data => {
     console.log(data);
@@ -40,6 +40,8 @@ arabası, kira arabası, makam arabası, muhacir arabası, ordövr arabası, ök
 ```
 # "async-await" yapısı ile örnek kullanım
 ```js
+const sozluk = require("turkce-sozluk")
+
 async function kelimeAra() {
     const data = await sozluk("araba");
     console.log(data);
