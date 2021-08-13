@@ -7,16 +7,18 @@
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [Lisans](https://github.com/HasanKGitHub/turkce-sozluk#lisans)
 
+npm install turkce-sozluk
+
 ## Tanımlama
 ```js
-const sozluk = require("../index.js");
+const sozluk = require("const sozluk = require("turkce-sozluk")");
 ```
 
 # "then" yapısı ile örnek kullanım
 ```js
 const sozluk = require("../index.js");
 
-sozluk("ad").then(data => {
+sozluk("araba").then(data => {
     console.log(data);
 });
 
