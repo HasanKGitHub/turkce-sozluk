@@ -11,7 +11,7 @@ npm install turkce-sozluk
 
 ## Tanımlama
 ```js
-const sozluk = require("const sozluk = require("turkce-sozluk")");
+const sozluk = require("turkce-sozluk");
 ```
 
 # "then" yapısı ile örnek kullanım
