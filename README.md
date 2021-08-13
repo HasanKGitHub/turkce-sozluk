@@ -7,16 +7,19 @@
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [Lisans](https://github.com/HasanKGitHub/turkce-sozluk#lisans)
 
+## İndirme
+```
 npm install turkce-sozluk
+```
 
 ## Tanımlama
 ```js
-const sozluk = require("turkce-sozluk");
+const turkceSozluk = require("turkce-sozluk");
 ```
 
 # "then" yapısı ile örnek kullanım
 ```js
-const sozluk = require("turkce-sozluk");
+const turkceSozluk = require("turkce-sozluk");
 
 sozluk("araba").then(data => {
     console.log(data);
@@ -40,7 +43,7 @@ arabası, kira arabası, makam arabası, muhacir arabası, ordövr arabası, ök
 ```
 # "async-await" yapısı ile örnek kullanım
 ```js
-const sozluk = require("turkce-sozluk")
+const turkceSozluk = require("turkce-sozluk")
 
 async function kelimeAra() {
     const data = await sozluk("araba");
