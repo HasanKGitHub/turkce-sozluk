@@ -1,14 +1,14 @@
 # 📘 turkce-sozluk
 
 # Konular
-* [Kurulum](https://github.com/HasanKGitHub/turkce-sozluk#indirme)
+* [Kurulum](https://github.com/HasanKGitHub/turkce-sozluk#kurulum)
 * [Tanımlama](https://github.com/HasanKGitHub/turkce-sozluk#tanımlama)
 * [then yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#then-yapısı-ile-ornek-kullanım)
 * [async-await yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#async-await-yapısı-ile-örnek-kullanım)
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [Lisans](https://github.com/HasanKGitHub/turkce-sozluk#lisans)
 
-## İndirme
+## Kurulum
 ```
 npm install turkce-sozluk
 ```
