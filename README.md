@@ -7,7 +7,7 @@
 * [async-await yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#async-await-yapısı-ile-örnek-kullanım)
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [Lisans](https://github.com/HasanKGitHub/turkce-sozluk#lisans)
-* [İletişim](https://github.com/HasanKGitHub/turkce-sozluk#iletişim-hesaplar)
+* [İletişim](https://github.com/HasanKGitHub/turkce-sozluk#iletişim---hesaplar)
 
 ## Kurulum
 ```
