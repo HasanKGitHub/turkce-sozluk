@@ -7,6 +7,7 @@
 * [async-await yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#async-await-yapısı-ile-örnek-kullanım)
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [Lisans](https://github.com/HasanKGitHub/turkce-sozluk#lisans)
+* [İletişim](https://github.com/HasanKGitHub/turkce-sozluk#iletişim-hesaplar)
 
 ## Kurulum
 ```
@@ -78,5 +79,7 @@ arabası, kira arabası, makam arabası, muhacir arabası, ordövr arabası, ök
 `Lisans ne anlama geliyor?`
 > MIT Lisansı, bu modülü bir başkasının kopyalayıp kendi modülüymüş gibi paylaşmasına engel oluyor. Modülü isteyen istediği gibi kullanabilir fakat hiç kimse kendi modülüymüş gibi paylaşamaz.
 
-### Lisans
-* [MIT](https://github.com/HasanKGitHub/turkce-sozluk/blob/main/LICENSE)
+# İletişim - Hesaplar
+* [GitHub](https://github.com/HasanKGitHub) <br>
+* [NPM](https://www.npmjs.com/~hasanerenpm) <br>
+* Discord | Hasan.#2064
