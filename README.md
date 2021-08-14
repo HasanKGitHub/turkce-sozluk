@@ -76,7 +76,7 @@ arabası, kira arabası, makam arabası, muhacir arabası, ordövr arabası, ök
 <br>
 
 `Lisans ne anlama geliyor?`
-> MIT Lisansı, bu modülü kimsenin kopyalayıp kendi modülüymüş gibi kullanmasına engel oluyor. Modülü isteyen istediği gibi kullanabilir fakat hiç kimse kendi modülüymüş gibi paylaşamaz.
+> MIT Lisansı, bu modülü bir başkasının kopyalayıp kendi modülüymüş gibi paylaşmasına engel oluyor. Modülü isteyen istediği gibi kullanabilir fakat hiç kimse kendi modülüymüş gibi paylaşamaz.
 
 ### Lisans
 * [MIT](https://github.com/HasanKGitHub/turkce-sozluk/blob/main/LICENSE)
