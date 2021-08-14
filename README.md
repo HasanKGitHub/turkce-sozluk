@@ -3,7 +3,7 @@
 # Konular
 * [Kurulum](https://github.com/HasanKGitHub/turkce-sozluk#kurulum)
 * [Tanımlama](https://github.com/HasanKGitHub/turkce-sozluk#tanımlama)
-* [then yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#then-yapısı-ile-ornek-kullanım)
+* [then yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#then-yapısı-ile-örnek-kullanım)
 * [async-await yapısı ile örnek kullanım](https://github.com/HasanKGitHub/turkce-sozluk#async-await-yapısı-ile-örnek-kullanım)
 * [Sıkça Sorulan Sorular](https://github.com/HasanKGitHub/turkce-sozluk#sss)
 * [İletişim](https://github.com/HasanKGitHub/turkce-sozluk#i%CC%87leti%C5%9Fim---hesaplar)
