@@ -23,7 +23,7 @@ const turkceSozluk = require("turkce-sozluk");
 ```js
 const turkceSozluk = require("turkce-sozluk");
 
-sozluk("araba").then(data => {
+turkceSozluk("araba").then(data => {
     console.log(data);
 });
 
@@ -48,7 +48,7 @@ arabası, kira arabası, makam arabası, muhacir arabası, ordövr arabası, ök
 const turkceSozluk = require("turkce-sozluk")
 
 async function kelimeAra() {
-    const data = await sozluk("araba");
+    const data = await turkceSozluk("araba");
     console.log(data);
 }
 
